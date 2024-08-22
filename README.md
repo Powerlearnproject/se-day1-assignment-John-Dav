@@ -120,4 +120,4 @@ Improved Prompt:
 "What are the main parts of a computer?"
 
 Why It's Better:  
-The improved prompt is clear and focused, making it easier for the AI to give a direct and useful answer.
+The improved prompt is clear and focused, making it easier for the AI to give a direct, precise and useful answer.
